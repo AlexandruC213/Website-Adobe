@@ -16,4 +16,4 @@ This landing page was made with:
 
 ***
 
-![Website-Adobe](/Users/chisalexandru/Desktop/Website-Adobe-1.png)
+![Website-Adobe](/Users/chisalexandru/Aplications Photos/Website-Adobe/Website-Adobe-1.png)
