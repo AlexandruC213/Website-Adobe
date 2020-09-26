@@ -15,5 +15,4 @@ This landing page was made with:
  -  It was a good practice for responsive webpage
 
 ***
-
-![Website-Adobe](/Users/chisalexandru/Aplications Photos/Website-Adobe/Website-Adobe-1.png)
+# Photos
