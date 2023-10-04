@@ -8,11 +8,6 @@ This landing page was made with:
   - [bootstrap](https://getbootstrap.com/)
   - [font-awesome](https://fontawesome.com/)
   - [google fonts](https://fonts.google.com/)
-  
-***
-
- -  Simple landing page of [adobe](https://www.adobe.com/) at that point of time
- -  It was a good practice for responsive webpage
 
 ***
 
